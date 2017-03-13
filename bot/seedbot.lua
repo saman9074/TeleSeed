@@ -229,7 +229,9 @@ function create_config( )
     "welcome",
     "lock_eng",
     "lock_link",
-    "lock_tag"
+    "lock_tag",
+    "lock_badw",
+    "9gag"
     },
     sudo_users = {122630959,tonumber(our_id)},--Sudo users
     disabled_channels = {},
